@@ -14,6 +14,6 @@ I build with AI-assisted development tools and run e-commerce operations on Tren
 
 - ZombieEscape — Wave-based zombie defense game (Unity 2D)
 
-⚙️ Working with: Unity, C#, JavaScript, HTML/CSS, Claude, Cursor, ChatGPT
+⚙️ Working with: Unity, C#, JavaScript, HTML/CSS, Claude, Cursor
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mert-baran-yıldırım-7757383b6/) · mertbaran739@gmail.com
