@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Mert Baran 👋
 
-<!--
-**FBaran7/FBaran7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Management Information Systems student at Yeditepe University.  
 
-Here are some ideas to get you started:
+I build with AI-assisted development tools and run e-commerce operations on Trendyol marketplace.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛍️ Operating: E-commerce operations at BAROS Menswear on Trendyol — 347+ orders fulfilled
+
+🛠️ Currently building:
+
+- baros-yonetim — Inventory & profit tracking tool I built for BAROS operations
+
+- CYBER DASH — Cyberpunk top-down survival game (Unity 2D, mobile)
+
+- ZombieEscape — Wave-based zombie defense game (Unity 2D)
+
+⚙️ Working with: Unity, C#, JavaScript, HTML/CSS, Claude, Cursor, ChatGPT
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mert-baran-yıldırım-7757383b6/) · mertbaran739@gmail.com
